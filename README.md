@@ -1,1 +1,1 @@
-# test complete of this file for the daily commits to meet the daily streaks
+# test complete of this file for the daily commits to meet the daily streaks of the
